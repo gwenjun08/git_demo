@@ -2,4 +2,4 @@
 this is git test
 now I changes the text
 now I changes the text again
-git is good
+I'm good
